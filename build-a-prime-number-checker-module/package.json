@@ -1,0 +1,12 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Check whether a number is prime",
+  "keywords": [
+    "prime",
+    "number"
+  ],
+  "author": "freeCodeCamp",
+  "license": "MIT",
+  "type": "commonjs"
+}
